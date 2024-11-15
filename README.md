@@ -15,7 +15,7 @@
 - Union-Find (Disjoint Set):
 - Suffix Tree & Suffix Array:
 - Steiner Tree:
-* Min Vertex Cover:
+- Min Vertex Cover:
 
 # Sorting Algorithms
 
@@ -26,9 +26,9 @@
 - Insertion Sort
 - Merge Sort
 - Quick Sort
-* Counting Sort
+- Counting Sort
 
 ### Unfamiliar or Not Mastered Yet:
 
 - Randomized Quick Sort
-* Radix Sort
+- Radix Sort
