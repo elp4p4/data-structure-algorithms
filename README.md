@@ -6,7 +6,7 @@
 - Linked List (including Stack and Queue)
 - Binary Search Tree
 - Graph (Basic Structures and Traversals: BFS, DFS)
-* Hash Table
+- Hash Table
 
 ### Unfamiliar or Not Mastered Yet:
 
