@@ -3,9 +3,8 @@
 ### Familiar:
 
 - Array
-- Linked List (including Stack and Queue)
+- Linked List
 - Binary Search Tree
-- Graph (Basic Structures and Traversals: BFS, DFS)
 - Hash Table
 
 ### Unfamiliar or Not Mastered Yet:
